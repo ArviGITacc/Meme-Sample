@@ -1,0 +1,28 @@
+html{
+    background-color:black;
+}
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+p {
+    color: wheat;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+    border: 10px solid rebeccapurple;
+    height: 430px;
+    
+}
+
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+
+}
